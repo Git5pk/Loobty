@@ -1,0 +1,9 @@
+ext {
+    extName = 'Loobyt'
+    pkgNameSuffix = 'pt.loobyt'
+    extClass = '.Loobyt'
+    extVersionCode = 1
+    isNsfw = false
+}
+
+apply from: "$rootDir/common.gradle"
